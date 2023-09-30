@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shriyans Naik</h1>
-<h3 align="center">A passionate frontend developer from Mumbai</h3>
+<h1 align="center">Shriyans Naik</h1>
+<h3 align="center"> Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyansnaik&label=Profile%20views&color=ff7b00&style=flat" alt="shriyansnaik" /> </p>
 
